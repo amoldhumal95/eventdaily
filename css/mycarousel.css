@@ -10,7 +10,7 @@ body {
 }
 
 .carousel-item {
-  height: 45rem;
+  height: 35rem;
   background-color: #000;
 }
 .carousel-item > img {
