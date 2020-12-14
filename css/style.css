@@ -16,6 +16,15 @@
 
 
 
+@media all and (min-width: 360px) {
+	.navbar .nav-item .dropdown-menu{ display: none; }
+	.navbar .nav-item:hover .nav-link{ color: #777; }
+	.navbar .nav-item:hover .dropdown-menu{ display: block; border-radius: 5px;}
+	.navbar .nav-item .dropdown-menu{ margin-top:0; }
+}	
+
+
+
 
 
 
